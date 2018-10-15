@@ -1,2 +1,2 @@
-# Trial1
-trial 1
+# Basic File operations in Python
+Exploring File operations,csv library 
