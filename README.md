@@ -1,2 +1,2 @@
-# Basic File operations in Python
-Exploring File operations,csv library 
+# Python Implementations of Neural Networks
+In this repository, I'll be adding the tasks done in EE387 - Neural Networks Lab
